@@ -1,4 +1,4 @@
-package com.competitiveprogramming.DSA.arrays;
+package com.competitiveprogramming.DSA.searching;
 
 public class LinearSearch {
     public static int linearSearch(int[] arr, int k){
